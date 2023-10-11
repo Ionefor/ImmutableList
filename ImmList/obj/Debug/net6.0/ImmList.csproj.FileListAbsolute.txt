@@ -1,0 +1,15 @@
+G:\Programming\ImmList\ImmList\bin\Debug\net6.0\ImmList.exe
+G:\Programming\ImmList\ImmList\bin\Debug\net6.0\ImmList.deps.json
+G:\Programming\ImmList\ImmList\bin\Debug\net6.0\ImmList.runtimeconfig.json
+G:\Programming\ImmList\ImmList\bin\Debug\net6.0\ImmList.dll
+G:\Programming\ImmList\ImmList\bin\Debug\net6.0\ImmList.pdb
+G:\Programming\ImmList\ImmList\obj\Debug\net6.0\ImmList.csproj.AssemblyReference.cache
+G:\Programming\ImmList\ImmList\obj\Debug\net6.0\ImmList.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\ImmList\ImmList\obj\Debug\net6.0\ImmList.AssemblyInfoInputs.cache
+G:\Programming\ImmList\ImmList\obj\Debug\net6.0\ImmList.AssemblyInfo.cs
+G:\Programming\ImmList\ImmList\obj\Debug\net6.0\ImmList.csproj.CoreCompileInputs.cache
+G:\Programming\ImmList\ImmList\obj\Debug\net6.0\ImmList.dll
+G:\Programming\ImmList\ImmList\obj\Debug\net6.0\refint\ImmList.dll
+G:\Programming\ImmList\ImmList\obj\Debug\net6.0\ImmList.pdb
+G:\Programming\ImmList\ImmList\obj\Debug\net6.0\ImmList.genruntimeconfig.cache
+G:\Programming\ImmList\ImmList\obj\Debug\net6.0\ref\ImmList.dll
